@@ -1,0 +1,24 @@
+{
+  "name": "mikrodock-example-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the mikrodock example stack Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikrodock/example-frontend.git"
+  },
+  "keywords": [
+    "mikrodock",
+    "frontend",
+    "example"
+  ],
+  "author": "Nicolas Surleraux",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Mikrodock/example-frontend/issues"
+  },
+  "homepage": "https://github.com/Mikrodock/example-frontend#readme"
+}
